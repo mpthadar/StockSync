@@ -1,4 +1,4 @@
-# RetailFlow — Business Management Web App
+# StockSync — Business Management Web App
 
 > A full-stack invoice and inventory management system built for a family-owned retail business in Yangon, Myanmar. Designed to replace paper-based workflows with a fast, intuitive, and role-aware digital system.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Thar Lon Kyaw Curtain & Settee Mart** is a retail business in Yangon that previously managed all sales, invoices, and stock records manually on paper. RetailFlow digitises their entire operation into two tightly integrated modules:
+**Thar Lon Kyaw Curtain & Settee Mart** is a retail business in Yangon that previously managed all sales, invoices, and stock records manually on paper. StockSync digitises their entire operation into two tightly integrated modules:
 
 - **Sales & Invoicing** — create invoices, record partial and full payments, generate print-ready receipts, and track outstanding balances per customer
 - **Inventory & Stock** — manage product catalogue, monitor stock levels in real time, log stock adjustments with a permanent audit trail, and raise stock replenishment requests to suppliers
@@ -115,7 +115,7 @@ The prototype covers 10+ screens including: Login, Dashboard, Create Invoice, In
 
 Existing business management software in Myanmar is either too expensive for small-to-medium retailers, too complex for non-technical staff to adopt, or not localised for local workflows (e.g. MMK currency, KBZ Pay, partial payment tracking).
 
-RetailFlow was designed from the ground up for this context — starting with user interviews and workflow observation before any design or code was written. Every interface decision is grounded in how the business actually operates, not how a generic SaaS product expects it to.
+StockSync was designed from the ground up for this context — starting with user interviews and workflow observation before any design or code was written. Every interface decision is grounded in how the business actually operates, not how a generic SaaS product expects it to.
 
 ---
 
@@ -127,7 +127,7 @@ This project is being built in two phases:
 A tailored deployment for one specific retail business in Yangon. The system is customised to their product catalogue, workflows, and staff structure. This version establishes the core architecture and validates the product with real users in a real operational environment.
 
 ### v2 — Planned (Public SaaS)
-A generalised version of RetailFlow for any small-to-medium business to set up and use independently — with a focus on the Myanmar SMB market, including businesses that operate primarily through Facebook and similar platforms.
+A generalised version of StockSync for any small-to-medium business to set up and use independently — with a focus on the Myanmar SMB market, including businesses that operate primarily through Facebook and similar platforms.
 
 Key additions planned for v2:
 - **Multi-tenant architecture** — each business gets their own isolated workspace
