@@ -89,7 +89,7 @@ The prototype covers 10+ screens including: Login, Dashboard, Create Invoice, In
 > Full prototype available in Figma. Selected screens below.
 
 ### Login
-![Login](./screenshots/Login Page.png)
+![Login](./screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
