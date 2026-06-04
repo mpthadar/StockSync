@@ -44,7 +44,7 @@ The two modules are linked transactionally: when a sale is recorded, inventory l
 | View Invoice History | ✅ | ✅ | ✅ |
 | View Inventory | ✅ | ✅ | ✅ |
 | Edit Inventory / Adjust Stock | ✅ | ❌ | ✅ |
-| Manage Stock Requests | ✅ | ✅  | ✅ |
+| Manage Stock Requests | ✅ | ❌ | ✅ |
 | Access Supplier Directory | ✅ | ❌ | ❌ |
 | System Settings | ✅ | ❌ | ❌ |
 
@@ -119,9 +119,28 @@ RetailFlow was designed from the ground up for this context — starting with us
 
 ---
 
+## Roadmap
+
+This project is being built in two phases:
+
+### v1 — Current (Single Business)
+A tailored deployment for one specific retail business in Yangon. The system is customised to their product catalogue, workflows, and staff structure. This version establishes the core architecture and validates the product with real users in a real operational environment.
+
+### v2 — Planned (Public SaaS)
+A generalised version of RetailFlow for any small-to-medium business to set up and use independently — with a focus on the Myanmar SMB market, including businesses that operate primarily through Facebook and similar platforms.
+
+Key additions planned for v2:
+- **Multi-tenant architecture** — each business gets their own isolated workspace
+- **Self-service onboarding** — any business can sign up, configure their catalogue, and get started without technical help
+- **Mobile-first design** — fully responsive and touch-optimised for users on phones or low-spec devices, since not all small business owners have access to a laptop
+- **Localisation** — MMK currency, local payment methods (KBZ Pay, Wave Money, AYA Pay), and Burmese language support
+- **Flexible pricing tiers** — designed to be affordable for small retailers who cannot justify enterprise SaaS costs
+
+---
+
 ## Development Notes
 
-This repository will be updated as development progresses. The Figma prototype and UX research documentation are available via the links above and represent the complete design specification for the build.
+This repository will be updated as development progresses. The Figma prototype and UX research documentation are available via the links above and represent the complete design specification for the v1 build.
 
 ---
 
