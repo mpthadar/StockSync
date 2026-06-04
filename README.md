@@ -44,7 +44,7 @@ The two modules are linked transactionally: when a sale is recorded, inventory l
 | View Invoice History | ✅ | ✅ | ✅ |
 | View Inventory | ✅ | ✅ | ✅ |
 | Edit Inventory / Adjust Stock | ✅ | ❌ | ✅ |
-| Manage Stock Requests | ✅ | ❌ | ✅ |
+| Manage Stock Requests | ✅ | ✅  | ✅ |
 | Access Supplier Directory | ✅ | ❌ | ❌ |
 | System Settings | ✅ | ❌ | ❌ |
 
