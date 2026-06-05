@@ -21,16 +21,16 @@ The two modules are linked transactionally: when a sale is recorded, inventory l
 
 ## Key Features
 
-- 🔐 **Role-based access control** — three distinct roles with scoped permissions (see below)
-- 🧾 **Invoice creation** — product catalog browser, line items, discount, advance payment, balance tracking
-- 💳 **Receipt generation** — create payment receipts against existing invoices, with partial payment support
-- 📄 **PDF export** — print-ready invoice and receipt documents with company branding
-- 📦 **Inventory management** — full product catalogue with SKU tracking, stock status indicators (OK / Low / Critical), and category filtering
-- 📋 **Stock requests** — raise and track replenishment requests to suppliers with status pipeline (Pending → Ordered → On the Way → Received)
-- 🏭 **Supplier management** — supplier directory with linked products and contact details
-- 📊 **Dashboard** — real-time KPIs: daily revenue, invoices today, low stock alerts, recent transactions
-- 🗒️ **Activity log** — permanent, immutable record of all stock changes per product (cannot be edited or deleted)
-- 🔍 **Global search** — search across invoices, customers, and stock from any page
+- **Role-based access control** — three distinct roles with scoped permissions (see below)
+- **Invoice creation** — product catalog browser, line items, discount, advance payment, balance tracking
+- **Receipt generation** — create payment receipts against existing invoices, with partial payment support
+- **PDF export** — print-ready invoice and receipt documents with company branding
+- **Inventory management** — full product catalogue with SKU tracking, stock status indicators (OK / Low / Critical), and category filtering
+- **Stock requests** — raise and track replenishment requests to suppliers with status pipeline (Pending → Ordered → On the Way → Received)
+- **Supplier management** — supplier directory with linked products and contact details
+- **Dashboard** — real-time KPIs: daily revenue, invoices today, low stock alerts, recent transactions
+- **Activity log** — permanent, immutable record of all stock changes per product (cannot be edited or deleted)
+- **Global search** — search across invoices, customers, and stock from any page
 
 ---
 
