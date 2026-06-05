@@ -67,11 +67,11 @@ The two modules are linked transactionally: when a sale is recorded, inventory l
 
 | Phase | Status |
 |---|---|
-| UX Research | ✅ Complete |
-| Wireframing & Prototyping (Figma) | ✅ Complete |
-| Frontend Development | 🚧 In Progress |
-| Backend Integration | 🔜 Upcoming |
-| Testing & Deployment | 🔜 Upcoming |
+| UX Research | In Progress |
+| Wireframing & Prototyping (Figma) | Complete |
+| Frontend Development | In Progress |
+| Backend Integration | Upcoming |
+| Testing & Deployment | Upcoming |
 
 ---
 
